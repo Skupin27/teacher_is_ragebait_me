@@ -2,7 +2,7 @@
 ## What do I do?
 > reddit ahh story
 ---
-So recently my teacher has been ragebaiting me by turning the switch on and off on my table.
+### So recently my teacher has been ragebaiting me by turning the switch on and off on my table.
 
 For context, our classroom has these weird tables with built-in power outlets and a little switch that controls them. I sit near the front because my eyesight is terrible and I usually keep my laptop plugged in for notes.
 
